@@ -1,0 +1,9 @@
+﻿  systemclass.cpp
+  main.cpp
+  inputclass.cpp
+  graphicsclass.cpp
+c:\users\sports\documents\visual studio 2017\projects\directx 11\tutorial 3 initializing directx 11\engine\engine\source\graphicsclass.cpp(29): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+  d3dclass.cpp
+c:\users\sports\documents\visual studio 2017\projects\directx 11\tutorial 3 initializing directx 11\engine\engine\source\d3dclass.cpp(123): error C2664: 'errno_t wcstombs_s(size_t *,char *,::size_t,const wchar_t *,::size_t)': cannot convert argument 1 from 'unsigned __int64 *' to 'size_t *'
+  c:\users\sports\documents\visual studio 2017\projects\directx 11\tutorial 3 initializing directx 11\engine\engine\source\d3dclass.cpp(123): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  Generating Code...
